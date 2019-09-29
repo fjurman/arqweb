@@ -9,9 +9,9 @@ Francisco Jurman
 
 
 ### Uso de la API
-Lista de todos los alumnos:
-	METHOD GET
-	localhost:3000/v1/api/alumnos
+##Lista de todos los alumnos:
+	**METHOD GET**
+	```localhost:3000/v1/api/alumnos```
 
 Leer 1 alumno:
 	METHOD GET
