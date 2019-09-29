@@ -15,7 +15,8 @@ Trabajo práctico de Arquitectura Web
 
 ### Crear alumno:
 *Metodo: POST*
-**URL:** ```localhost:3000/v1/api/alumnos```
+**URL:**
+>localhost:3000/v1/api/alumnos
 
 *Contenido body ejemplo*:
 
