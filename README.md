@@ -29,7 +29,7 @@ Trabajo práctico de Arquitectura Web
 	"materias":[{"id":"1","nombre":"Arq. Web"},{"id":"31","nombre":"Analisis Matemático"}]
 	}
 ```
-    
+
 ### Eliminar alumno:
 *__Metodo__: DELETE*
->http://localhost:3000/v1/api/alumnos/"id"
+>http://localhost:3000/v1/api/alumnos/{id}
