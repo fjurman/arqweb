@@ -8,16 +8,16 @@ Trabajo práctico de Arquitectura Web
 ### Lista de todos los alumnos: 
 
 *__Metodo__: GET*
->http://localhost:3000/v1/api/alumnos
-    
+>http://localhost:3000/v1/api/alumnos  
+
 ### Leer 1 alumno:
 *__Metodo__: GET*
->http://localhost:3000/v1/api/alumnos/{id}
-    
+>http://localhost:3000/v1/api/alumnos/{id}  
+
 ### Crear alumno:
 *__Metodo__: POST*
 
->http://localhost:3000/v1/api/alumnos
+>http://localhost:3000/v1/api/alumnos  
     
 *Contenido body ejemplo*:
 
