@@ -21,10 +21,10 @@ Trabajo práctico de Arquitectura Web
 
 ```
 	{
-    "id": "4122",
-    "nombre": "blah",
-    "edad": "722",
-	"materias":[{"id":"1","nombre":"Arq. Web"},{"id":"31","nombre":"Analisis Matemático"}]
+    	"id": "4122",
+    	"nombre": "blah",
+    	"edad": "722",
+		"materias":[{"id":"1","nombre":"Arq. Web"},{"id":"31","nombre":"Analisis Matemático"}]
 	}
 ```
 ### Eliminar alumno:
