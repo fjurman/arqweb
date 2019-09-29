@@ -18,7 +18,14 @@ Trabajo práctico de Arquitectura Web
 *__Metodo__: POST*
 
 >http://localhost:3000/v1/api/alumnos  
-    
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
 *Contenido body ejemplo*:
 
 ```
