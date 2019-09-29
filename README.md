@@ -2,9 +2,9 @@
 
 Trabajo práctico de Arquitectura Web
 
-## Titulo bloque 1
+## Administración de alumnos
 
-Bloque 1
+Francisco Jurman
 
 
 
