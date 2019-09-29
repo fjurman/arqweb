@@ -10,9 +10,13 @@ Trabajo práctico de Arquitectura Web
 *__Metodo__: GET*
 >http://localhost:3000/v1/api/alumnos  
 
+<br>
+
 ### Leer 1 alumno:
 *__Metodo__: GET*
 >http://localhost:3000/v1/api/alumnos/{id}  
+
+<br>
 
 ### Crear alumno:
 *__Metodo__: POST*
@@ -20,12 +24,7 @@ Trabajo práctico de Arquitectura Web
 >http://localhost:3000/v1/api/alumnos  
 
 <br>
-<br>
-<br>
-<br>
-<br>
 
-<br>
 *Contenido body ejemplo*:
 
 ```
