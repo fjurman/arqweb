@@ -31,8 +31,3 @@ Trabajo práctico de Arquitectura Web
 ### Eliminar alumno:
 *Metodo: DELETE*
 >localhost:3000/v1/api/alumnos/"id"
-
-```
-Descripción de la App.
-
-```
