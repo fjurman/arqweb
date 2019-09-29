@@ -6,17 +6,17 @@ Trabajo práctico de Arquitectura Web
 
 ## Uso de la API
 ### Lista de todos los alumnos: 
-<br />
-*__Metodo__: GET*
+
+*__Metodo__: GET*  
 >http://localhost:3000/v1/api/alumnos
-<br />
+
 ### Leer 1 alumno:
 *__Metodo__: GET*
 >http://localhost:3000/v1/api/alumnos/{id}
-<br />
+
 ### Crear alumno:
 *__Metodo__: POST*
-<br />
+
 >http://localhost:3000/v1/api/alumnos
 
 *Contenido body ejemplo*:
