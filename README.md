@@ -7,15 +7,15 @@ Trabajo práctico de Arquitectura Web
 ## Uso de la API
 ### Lista de todos los alumnos:
 *Metodo: GET*
-```localhost:3000/v1/api/alumnos```
+>localhost:3000/v1/api/alumnos
 
 ### Leer 1 alumno:
 *Metodo: GET*
-```localhost:3000/v1/api/alumnos/"id"```
+>localhost:3000/v1/api/alumnos/"id"
 
 ### Crear alumno:
 *Metodo: POST*
-**URL:**
+
 >localhost:3000/v1/api/alumnos
 
 *Contenido body ejemplo*:
@@ -30,7 +30,7 @@ Trabajo práctico de Arquitectura Web
 ```
 ### Eliminar alumno:
 *Metodo: DELETE*
-```localhost:3000/v1/api/alumnos/"id"```
+>localhost:3000/v1/api/alumnos/"id"
 
 ```
 Descripción de la App.
