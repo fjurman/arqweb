@@ -7,18 +7,18 @@ Trabajo práctico de Arquitectura Web
 ## Uso de la API
 ### Lista de todos los alumnos: 
 
-*__Metodo__: GET*  
+*__Metodo__: GET*
 >http://localhost:3000/v1/api/alumnos
-
+    
 ### Leer 1 alumno:
 *__Metodo__: GET*
 >http://localhost:3000/v1/api/alumnos/{id}
-
+    
 ### Crear alumno:
 *__Metodo__: POST*
 
 >http://localhost:3000/v1/api/alumnos
-
+    
 *Contenido body ejemplo*:
 
 ```
@@ -29,6 +29,7 @@ Trabajo práctico de Arquitectura Web
 	"materias":[{"id":"1","nombre":"Arq. Web"},{"id":"31","nombre":"Analisis Matemático"}]
 	}
 ```
+    
 ### Eliminar alumno:
 *__Metodo__: DELETE*
 >http://localhost:3000/v1/api/alumnos/"id"
