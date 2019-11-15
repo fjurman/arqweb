@@ -28,7 +28,8 @@ Trabajo práctico de Arquitectura Web
 {
 	"id": "4122",
 	"nombre": "blah",
-	"edad": "722"
+	"edad": "722",
+	"fechaingreso": "22-10-1992"
 }
 ```
 
